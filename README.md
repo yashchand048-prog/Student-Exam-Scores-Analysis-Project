@@ -54,18 +54,6 @@ The dataset contains student-related information, including:
 * 📈 Pass Percentage
 * 🎯 Test Preparation Completion Rate
 
----
-
-## 📊 Dashboard Features
-
-* Executive KPI Cards
-* Subject-wise Performance Analysis
-* Gender-wise Score Comparison
-* Test Preparation Impact Analysis
-* Parental Education Analysis
-* Lunch Type Performance Comparison
-* Interactive Filters and Slicers
-* Dynamic Charts and Drill-down Analysis
 
 ---
 
@@ -77,18 +65,6 @@ The dataset contains student-related information, including:
 * Identified factors associated with higher academic performance.
 * Enabled educators to explore trends through interactive visualizations.
 
----
-
-## 📷 Dashboard Preview
-
-> Add screenshots of your dashboard here.
-
-Example:
-
-* Executive Dashboard
-* Subject Performance Analysis
-* Demographic Insights
-* Test Preparation Analysis
 
 ---
 
@@ -134,6 +110,6 @@ Example:
 
 **Yash Chand**
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Python | AI-Assisted Analytics
+Data Analyst | Power BI | SQL | Excel | Python | AI-Assisted Analytics
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
